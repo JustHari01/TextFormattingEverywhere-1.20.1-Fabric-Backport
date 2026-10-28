@@ -18,4 +18,3 @@ This backport is based on the MIT-licensed Text Formatting Everywhere by Potat36
 Upstream source: https://github.com/Potat369/TextFormattingEverywhere
 
 This unofficial backport was prepared with AI assistance.
-

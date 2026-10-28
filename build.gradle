@@ -1,0 +1,8 @@
+plugins {
+    id 'fabric-loom' version '1.6.12' apply false
+}
+
+allprojects {
+    group = project.property('group')
+    version = project.property('version')
+}
