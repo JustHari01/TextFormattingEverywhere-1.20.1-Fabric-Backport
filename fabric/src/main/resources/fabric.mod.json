@@ -6,7 +6,8 @@
     "description": "${description}",
     "authors": ["Potat369", "JustHari01"],
     "contact": {
-        "sources": "https://github.com/Potat369/TextFormattingEverywhere"
+        "sources": "https://github.com/JustHari01/TextFormattingEverywhere-1.20.1-Fabric-Backport",
+        "issues": "https://github.com/JustHari01/TextFormattingEverywhere-1.20.1-Fabric-Backport/issues"
     },
     "license": "${license}",
     "icon": "assets/${mod_id}/icon.png",
@@ -18,4 +19,3 @@
         "java": ">=${java_version}"
     }
 }
-  
